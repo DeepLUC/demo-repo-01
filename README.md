@@ -1,6 +1,6 @@
 # README File
 
-Some information
+Some text information
 
 ## Second Header
 
